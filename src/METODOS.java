@@ -51,7 +51,7 @@ public class METODOS {
         }
         return cad;
     }
-    // PINCHE METODO QLERO ESTA BIEN DIFICIL ALV
+    
     //FUNCIONA BIEN
 
     public String Radix(int[] arreglo) {
