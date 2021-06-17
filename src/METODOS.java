@@ -80,7 +80,7 @@ public class METODOS {
     }
 
     //METODO SHELL
-    // AUN CON ERRORES
+   
     public String Shellsort(int[] arreglo) {
         int n = arreglo.length, aux;
         boolean cambios;
